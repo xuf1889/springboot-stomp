@@ -1,4 +1,4 @@
-package com.ricky.websocket;
+package demo.websocket;
 
 import java.util.Collections;
 import java.util.Set;

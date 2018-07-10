@@ -1,4 +1,4 @@
-package com.ricky.websocket;
+package demo.websocket;
 
 public class InMessage {
 
